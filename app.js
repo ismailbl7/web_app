@@ -1,0 +1,13 @@
+// Simulated database (users table)
+const usersTable = [
+  {
+    id: 1,
+    username: "admin",
+    password: "1234"
+  },
+  {
+    id: 2,
+    username: "user",
+    password: "pass"
+  }
+];
